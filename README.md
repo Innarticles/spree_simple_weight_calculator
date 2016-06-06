@@ -4,6 +4,7 @@ forked from freego/spree_simple_weight_calculator
 
 - use spree_core ~> 3.0.0
 - change spec test to pass
+- set banch '3-1'stable and use spree_core ~> 3.1.0 for it
 
 Spree Simple Weight Calculator
 ==============================
